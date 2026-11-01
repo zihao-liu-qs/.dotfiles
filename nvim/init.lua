@@ -1,0 +1,22 @@
+-- Neovim 0.12 vim.pack 配置入口
+vim.g.mapleader = " "
+
+require("core")
+require("plugins.snacks")
+require("plugins.lsp")
+require("plugins.conform")
+require("plugins.which-key")
+require("plugins.minuet")
+require("plugins.blink-cmp")
+require("plugins.mini-pairs")
+require("plugins.treesitter")
+require("plugins.autotag")
+require("plugins.rainbow-delimiters")
+require("plugins.onedarkpro")
+-- require("plugins.claudetheme")
+require("plugins.obsidian")
+require("plugins.mason")
+require("plugins.todo-comments")
+require("plugins.marks")
+require("plugins.flash")
+require("plugins.devdocs")

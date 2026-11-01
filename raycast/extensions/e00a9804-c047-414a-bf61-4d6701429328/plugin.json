@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "emoji",
+  "description": "Finds emojis and inserts or copies them.",
+  "author": {
+    "name": "FezVrasta"
+  },
+  "license": "MIT"
+}

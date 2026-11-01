@@ -1,0 +1,17 @@
+gui:
+  nerdFontsVersion: "3"
+  theme:
+    activeBorderColor: ["#61afef", bold]
+    inactiveBorderColor: ["#5c6370"]
+    optionsTextColor: ["#61afef"]
+    selectedLineBgColor: ["#3e4451"]
+    unstagedChangesColor: ["#e06c75"]
+    defaultFgColor: ["#abb2bf"]
+os:
+  editPreset: nvim
+disableStartupPopups: true
+confirmOnQuit: false
+git:
+  diffRenderers:
+    - colorArg: always
+      command: delta --dark --paging=never --side-by-side --line-numbers --tabs=4

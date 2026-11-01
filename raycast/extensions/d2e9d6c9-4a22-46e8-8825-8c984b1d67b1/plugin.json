@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "fuzzy-file-search",
+  "description": "Fuzzy-search files by full path to reach the right item instantly.",
+  "author": {
+    "name": "erykksc"
+  },
+  "license": "MIT"
+}

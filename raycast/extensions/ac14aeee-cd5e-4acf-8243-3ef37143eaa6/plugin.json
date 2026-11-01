@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "easy-ocr",
+  "description": "Use Tesseract OCR to extract text from screenshot",
+  "author": {
+    "name": "Rafo94"
+  },
+  "license": "MIT"
+}

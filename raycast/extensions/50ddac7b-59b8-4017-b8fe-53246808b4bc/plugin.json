@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "clipboard-editor",
+  "description": "Edit your clipboard text",
+  "author": {
+    "name": "pomdtr"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+/nix/
+/System/
+/Library/
+/private/
+/usr/
+/Users/liuzihao/Library/*
+/Users/liuzihao/!/Library/CloudStorage/
+/Users/liuzihao/**/*.photoslibrary/
